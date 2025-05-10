@@ -19,21 +19,27 @@ export function getRange() {
 
 let chineseVoice = null;
 
-// 音声が読み込まれたときに取得
 speechSynthesis.onvoiceschanged = () => {
   const voices = speechSynthesis.getVoices();
-  chineseVoice = voices.find(v => v.lang.startsWith("zh")); // zh-CN, zh-TW など
+  chineseVoice = voices.find(v => v.lang.startsWith("zh"));
 };
 
 export function speakChinese(text) {
   const utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = "zh-CN"; // 念のため指定
+  utterance.lang = "zh-CN";
 
   if (chineseVoice) {
     utterance.voice = chineseVoice;
+  } else {
+    // ✅ 警告を表示
+    alert(
+      "中国語音声が使用できないようです。\n" +
+      "iOS端末をご利用の場合は「設定 → アクセシビリティ → 読み上げコンテンツ → 声」で中国語の音声（例：Ting-Ting）を追加してください。"
+    );
   }
 
   utterance.rate = 1;
-  speechSynthesis.cancel(); // 前回の発音を止める
+  speechSynthesis.cancel();
   speechSynthesis.speak(utterance);
 }
+
