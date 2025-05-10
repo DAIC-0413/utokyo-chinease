@@ -1,0 +1,211 @@
+/* ========== ベーススタイル ========== */
+body {
+  font-family: 'Segoe UI', 'Noto Sans JP', system-ui, sans-serif;
+  background-color: #f5f7fa;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+.container {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.card {
+  background-color: white;
+  border-radius: 1rem;
+  padding: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+h1, h2 {
+  color: #1b4d91; /* UTokyo Blue */
+  text-align: center;
+}
+
+/* ========== ナビゲーションバー ========== */
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #1b4d91;
+  color: white;
+  padding: 0.6rem 1rem;
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.logo {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: white;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.logo-link {
+  display: flex;
+  align-items: center;
+}
+
+.logo-img {
+  height: 36px;
+  width: auto;
+  border-radius: 4px;
+}
+
+.nav-right select {
+  font-size: 1rem;
+  padding: 0.4rem;
+  border-radius: 0.4rem;
+}
+
+/* ========== 入力・ボタン・セレクト共通 ========== */
+button, input, select {
+  font-size: 1rem;
+  padding: 0.6rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid #ccc;
+  margin: 0.5rem;
+}
+
+button {
+  background-color: #1b4d91;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #163b6f;
+}
+
+input {
+  width: calc(100% - 2rem);
+}
+
+/* ========== モード選択画面 ========== */
+.range-select {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.mode-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.mode-btn {
+  display: block;
+  background: #0071e3;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+
+.mode-btn:hover {
+  background: #005bb8;
+}
+
+/* ========== 問題・選択肢・次へボタン ========== */
+.question {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.opt {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.6rem 1rem;
+  background-color: #1b4d91;
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.opt:hover {
+  background-color: #163b6f;
+}
+
+/* 選択肢ボタンを中央で折り返す */
+.choices {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+
+/* 中央配置補助 */
+.centered {
+  text-align: center;
+}
+
+/* 「次へ」「確認」ボタンの中央配置 */
+button#next,
+button#check {
+  display: inline-block;
+  margin: 1rem auto;
+  text-align: center;
+}
+
+/* ========== フッター ========== */
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 0.9rem;
+  color: #888;
+  border-top: 1px solid #ddd;
+  margin-top: 2rem;
+}
+
+/* 共通：選択肢ボタンのスタイル */
+.choices button.opt {
+  display: block;
+  width: 100%;
+  max-width: 320px;  /* ← PC時に幅が広くなりすぎないよう制限 */
+  font-size: 1.1rem;
+  padding: 1rem;
+  margin: 0.5rem auto;
+  border: none;
+  background-color: #0071e3;
+  color: white;
+  border-radius: 0.5rem;
+  text-align: center;
+}
+
+/* ホバー効果 */
+.choices button.opt:hover {
+  background-color: #005bb8;
+}
+
+
+.card.centered {
+  max-width: 100%;
+  padding: 1rem;
+}

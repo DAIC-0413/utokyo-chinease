@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>中国語クイズ｜モード選択</title>
+  <link rel="stylesheet" href="styles/main.css" />
+  <script type="module" src="scripts/header.js"></script>
+  <script type="module" src="scripts/footer.js"></script>
+</head>
+<body>
+  <!-- 上部ヘッダー -->
+  <header id="global-header"></header>
+
+  <!-- メインコンテンツ -->
+  <main class="container">
+    <div class="card">
+      <h1>中国語クイズ</h1>
+
+      <section class="range-select">
+        <label for="rangeSel">出題範囲：</label>
+        <select id="rangeSel">
+          <option value="lesson1">第一課</option>
+          <option value="lesson2">第二課</option>
+        </select>
+      </section>
+
+      <section class="mode-select">
+        <h2>モードを選択</h2>
+        <ul class="mode-list">
+          <li><a class="mode-btn" data-page="hanzi-to-pinyin.html">漢字 → ピン音</a></li>
+          <li><a class="mode-btn" data-page="pinyin-to-hanzi.html">ピン音 → 漢字</a></li>
+          <li><a class="mode-btn" data-page="hanzi-to-meaning.html">漢字 → 意味</a></li>
+          <li><a class="mode-btn" data-page="meaning-to-hanzi.html">意味 → 漢字</a></li>
+        </ul>
+      </section>
+    </div>
+  </main>
+
+  <footer id="global-footer"></footer>
+
+  <script>
+    const rangeSel = document.getElementById('rangeSel');
+    const modeLinks = document.querySelectorAll('.mode-btn');
+
+    function updateLinks() {
+      const range = rangeSel.value;
+      sessionStorage.setItem('quizRange', range);
+      modeLinks.forEach(link => {
+        const page = link.dataset.page;
+        link.href = `${page}?range=${range}`;
+      });
+    }
+
+    rangeSel.addEventListener('change', updateLinks);
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const saved = sessionStorage.getItem('quizRange');
+      if (saved) rangeSel.value = saved;
+      updateLinks();
+    });
+  </script>
+</body>
+</html>
