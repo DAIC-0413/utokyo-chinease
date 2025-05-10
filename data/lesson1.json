@@ -1,7 +1,7 @@
 [
   { "hanzi": "这", "pinyin": "zhè", "meaning": "これ" },
   { "hanzi": "是", "pinyin": "shì", "meaning": "〜である" },
-  { "hanzi": "你", "pinyin": "nǐ", "meaning": "あなた" },
+  { "hanzi": "你", "pinyin": "nǐ", "meaning": "あなた（非敬称）" },
   { "hanzi": "的", "pinyin": "de", "meaning": "〜の" },
   { "hanzi": "书", "pinyin": "shū", "meaning": "本" },
   { "hanzi": "马", "pinyin": "mǎ", "meaning": "馬" },
@@ -13,7 +13,7 @@
   { "hanzi": "留学生", "pinyin": "liúxuéshēng", "meaning": "留学生" },
   { "hanzi": "对", "pinyin": "duì", "meaning": "〜に対して" },
   { "hanzi": "日本", "pinyin": "Rìběn", "meaning": "日本" },
-  { "hanzi": "叫", "pinyin": "jiào", "meaning": "〜と呼ぶ" },
+  { "hanzi": "叫", "pinyin": "jiào", "meaning": "〜と呼ぶ（二音節以上、フルネーム）" },
   { "hanzi": "方", "pinyin": "Fāng", "meaning": "方（姓）" },
   { "hanzi": "自胜", "pinyin": "Zìshèng", "meaning": "自勝（名）" },
   { "hanzi": "姓", "pinyin": "xìng", "meaning": "姓は〜である" },
@@ -29,7 +29,7 @@
   { "hanzi": "也", "pinyin": "yě", "meaning": "〜も" },
   { "hanzi": "今后", "pinyin": "jīnhòu", "meaning": "今後" },
   { "hanzi": "请多指教", "pinyin": "qǐng duō zhǐjiào", "meaning": "よろしくお願いします" },
-  { "hanzi": "我们", "pinyin": "wǒmen", "meaning": "私たち" },
+  { "hanzi": "我们", "pinyin": "wǒmen", "meaning": "私たち（聞き手を除く）" },
   { "hanzi": "咱们", "pinyin": "zánmen", "meaning": "私たち（話し手と聞き手を含む）" },
   { "hanzi": "您", "pinyin": "nín", "meaning": "あなた（敬称）" },
   { "hanzi": "你们", "pinyin": "nǐmen", "meaning": "あなたたち" },
@@ -122,5 +122,4 @@
   { "hanzi": "日本人", "pinyin": "Rìběn rén", "meaning": "日本人" },
   { "hanzi": "杨", "pinyin": "Yáng", "meaning": "楊（姓）" },
   { "hanzi": "来", "pinyin": "lái", "meaning": "来る" },
-  { "hanzi": "衬衫", "pinyin": "chènshān", "meaning": "シャツ" }
 ]
