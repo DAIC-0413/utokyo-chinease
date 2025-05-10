@@ -17,11 +17,23 @@ export function getRange() {
   return urlRange || sessionStorage.getItem("quizRange") || "lesson1";
 }
 
-// 音声読み上げ（中国語）
+let chineseVoice = null;
+
+// 音声が読み込まれたときに取得
+speechSynthesis.onvoiceschanged = () => {
+  const voices = speechSynthesis.getVoices();
+  chineseVoice = voices.find(v => v.lang.startsWith("zh")); // zh-CN, zh-TW など
+};
+
 export function speakChinese(text) {
   const utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = "zh-CN"; // 標準中国語（簡体字）
-  utterance.rate = 1; // 読むスピード（0.1〜10）
-  speechSynthesis.cancel(); // 前の発話を停止
+  utterance.lang = "zh-CN"; // 念のため指定
+
+  if (chineseVoice) {
+    utterance.voice = chineseVoice;
+  }
+
+  utterance.rate = 1;
+  speechSynthesis.cancel(); // 前回の発音を止める
   speechSynthesis.speak(utterance);
 }
