@@ -1,0 +1,377 @@
+[
+  {
+    "hanzi": "喂",
+    "pinyin": "wèi",
+    "meaning": "もしもし"
+  },
+  {
+    "hanzi": "知道",
+    "pinyin": "zhīdào",
+    "meaning": "知っている"
+  },
+  {
+    "hanzi": "哪儿",
+    "pinyin": "nǎr",
+    "meaning": "どこ"
+  },
+  {
+    "hanzi": "前门",
+    "pinyin": "qiánmén",
+    "meaning": "前門（地名、場所）"
+  },
+  {
+    "hanzi": "站",
+    "pinyin": "zhàn",
+    "meaning": "駅"
+  },
+  {
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "meaning": "乗る"
+  },
+  {
+    "hanzi": "地铁",
+    "pinyin": "dìtiě",
+    "meaning": "地下鉄"
+  },
+  {
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "meaning": "〜は？（疑問の語尾）"
+  },
+  {
+    "hanzi": "走",
+    "pinyin": "zǒu",
+    "meaning": "歩く、行く"
+  },
+  {
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "meaning": "〜しましょう"
+  },
+  {
+    "hanzi": "等",
+    "pinyin": "děng",
+    "meaning": "待つ"
+  },
+  {
+    "hanzi": "演奏",
+    "pinyin": "yǎnzòu",
+    "meaning": "演奏する"
+  },
+  {
+    "hanzi": "人",
+    "pinyin": "rén",
+    "meaning": "人"
+  },
+  {
+    "hanzi": "不过",
+    "pinyin": "bùguò",
+    "meaning": "しかし"
+  },
+  {
+    "hanzi": "其他",
+    "pinyin": "qítā",
+    "meaning": "その他の"
+  },
+  {
+    "hanzi": "储物柜",
+    "pinyin": "chǔwùguì",
+    "meaning": "ロッカー"
+  },
+  {
+    "hanzi": "一楼",
+    "pinyin": "yī lóu",
+    "meaning": "1階"
+  },
+  {
+    "hanzi": "这儿",
+    "pinyin": "zhèr",
+    "meaning": "ここ"
+  },
+  {
+    "hanzi": "那儿",
+    "pinyin": "nàr",
+    "meaning": "あそこ"
+  },
+  {
+    "hanzi": "这里",
+    "pinyin": "zhèlǐ",
+    "meaning": "ここ"
+  },
+  {
+    "hanzi": "哪里",
+    "pinyin": "nǎlǐ",
+    "meaning": "どこ"
+  },
+  {
+    "hanzi": "那里",
+    "pinyin": "nàlǐ",
+    "meaning": "あそこ"
+  },
+  {
+    "hanzi": "电梯",
+    "pinyin": "diàntī",
+    "meaning": "エレベーター"
+  },
+  {
+    "hanzi": "老家",
+    "pinyin": "lǎojiā",
+    "meaning": "実家"
+  },
+  {
+    "hanzi": "以前",
+    "pinyin": "yǐqián",
+    "meaning": "以前"
+  },
+  {
+    "hanzi": "感冒药",
+    "pinyin": "gǎnmàoyào",
+    "meaning": "風邪薬"
+  },
+  {
+    "hanzi": "笔记本",
+    "pinyin": "bǐjìběn",
+    "meaning": "ノートパソコン"
+  },
+  {
+    "hanzi": "拜访",
+    "pinyin": "bàifǎng",
+    "meaning": "訪問する"
+  },
+  {
+    "hanzi": "住",
+    "pinyin": "zhù",
+    "meaning": "住む"
+  },
+  {
+    "hanzi": "发",
+    "pinyin": "fā",
+    "meaning": "送る"
+  },
+  {
+    "hanzi": "邮件",
+    "pinyin": "yóujiàn",
+    "meaning": "メール"
+  },
+  {
+    "hanzi": "广播",
+    "pinyin": "guǎngbò",
+    "meaning": "放送"
+  },
+  {
+    "hanzi": "社团",
+    "pinyin": "shètuán",
+    "meaning": "サークル"
+  },
+  {
+    "hanzi": "属",
+    "pinyin": "shǔ",
+    "meaning": "〜年生まれ"
+  },
+  {
+    "hanzi": "猪",
+    "pinyin": "zhū",
+    "meaning": "豚"
+  },
+  {
+    "hanzi": "欸",
+    "pinyin": "èi",
+    "meaning": "あれっ（驚きや注意喚起）"
+  },
+  {
+    "hanzi": "耳机",
+    "pinyin": "ěrjī",
+    "meaning": "イヤホン"
+  },
+  {
+    "hanzi": "戴",
+    "pinyin": "dài",
+    "meaning": "かける、つける"
+  },
+  {
+    "hanzi": "眼镜",
+    "pinyin": "yǎnjìng",
+    "meaning": "眼鏡"
+  },
+  {
+    "hanzi": "女孩子",
+    "pinyin": "nǚháizi",
+    "meaning": "女の子"
+  },
+  {
+    "hanzi": "表妹",
+    "pinyin": "biǎomèi",
+    "meaning": "いとこの妹"
+  },
+  {
+    "hanzi": "做",
+    "pinyin": "zuò",
+    "meaning": "作る、する"
+  },
+  {
+    "hanzi": "建筑",
+    "pinyin": "jiànzhù",
+    "meaning": "建築"
+  },
+  {
+    "hanzi": "模型",
+    "pinyin": "móxíng",
+    "meaning": "模型"
+  },
+  {
+    "hanzi": "厨房",
+    "pinyin": "chúfáng",
+    "meaning": "台所"
+  },
+  {
+    "hanzi": "烤",
+    "pinyin": "kǎo",
+    "meaning": "焼く"
+  },
+  {
+    "hanzi": "秋刀鱼",
+    "pinyin": "qiūdāoyú",
+    "meaning": "サンマ"
+  },
+  {
+    "hanzi": "味道",
+    "pinyin": "wèidào",
+    "meaning": "味"
+  },
+  {
+    "hanzi": "周末",
+    "pinyin": "zhōumò",
+    "meaning": "週末"
+  },
+  {
+    "hanzi": "唱",
+    "pinyin": "chàng",
+    "meaning": "歌う"
+  },
+  {
+    "hanzi": "卡拉OK",
+    "pinyin": "kǎlā OK",
+    "meaning": "カラオケ"
+  },
+  {
+    "hanzi": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "meaning": "どうですか"
+  },
+  {
+    "hanzi": "前天",
+    "pinyin": "qiántiān",
+    "meaning": "一昨日"
+  },
+  {
+    "hanzi": "后天",
+    "pinyin": "hòutiān",
+    "meaning": "明後日"
+  },
+  {
+    "hanzi": "上星期",
+    "pinyin": "shàng xīngqī",
+    "meaning": "先週"
+  },
+  {
+    "hanzi": "这个星期",
+    "pinyin": "zhège xīngqī",
+    "meaning": "今週"
+  },
+  {
+    "hanzi": "下星期",
+    "pinyin": "xià xīngqī",
+    "meaning": "来週"
+  },
+  {
+    "hanzi": "上月",
+    "pinyin": "shàng yuè",
+    "meaning": "先月"
+  },
+  {
+    "hanzi": "这个月",
+    "pinyin": "zhège yuè",
+    "meaning": "今月"
+  },
+  {
+    "hanzi": "下个月",
+    "pinyin": "xià gè yuè",
+    "meaning": "来月"
+  },
+  {
+    "hanzi": "前年",
+    "pinyin": "qiánnián",
+    "meaning": "一昨年"
+  },
+  {
+    "hanzi": "去年",
+    "pinyin": "qùnián",
+    "meaning": "去年"
+  },
+  {
+    "hanzi": "今年",
+    "pinyin": "jīnnián",
+    "meaning": "今年"
+  },
+  {
+    "hanzi": "明年",
+    "pinyin": "míngnián",
+    "meaning": "来年"
+  },
+  {
+    "hanzi": "后年",
+    "pinyin": "hòunián",
+    "meaning": "再来年"
+  },
+  {
+    "hanzi": "会议",
+    "pinyin": "huìyì",
+    "meaning": "会議"
+  },
+  {
+    "hanzi": "节目",
+    "pinyin": "jiémù",
+    "meaning": "番組"
+  },
+  {
+    "hanzi": "棒球",
+    "pinyin": "bàngqiú",
+    "meaning": "野球"
+  },
+  {
+    "hanzi": "旅游",
+    "pinyin": "lǚyóu",
+    "meaning": "旅行する"
+  },
+  {
+    "hanzi": "早上",
+    "pinyin": "zǎoshang",
+    "meaning": "朝"
+  },
+  {
+    "hanzi": "上午",
+    "pinyin": "shàngwǔ",
+    "meaning": "午前"
+  },
+  {
+    "hanzi": "中午",
+    "pinyin": "zhōngwǔ",
+    "meaning": "正午"
+  },
+  {
+    "hanzi": "下午",
+    "pinyin": "xiàwǔ",
+    "meaning": "午後"
+  },
+  {
+    "hanzi": "白天",
+    "pinyin": "báitiān",
+    "meaning": "昼間"
+  },
+  {
+    "hanzi": "夜里",
+    "pinyin": "yèlǐ",
+    "meaning": "夜中"
+  }
+]
