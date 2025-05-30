@@ -1,377 +1,597 @@
 [
   {
-    "hanzi": "喂",
-    "pinyin": "wèi",
-    "meaning": "もしもし"
+    "hanzi": "有名",
+    "pinyin": "yǒumíng",
+    "meaning": "有名な"
   },
   {
-    "hanzi": "知道",
-    "pinyin": "zhīdào",
-    "meaning": "知っている"
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "meaning": "とても"
   },
   {
-    "hanzi": "哪儿",
-    "pinyin": "nǎr",
-    "meaning": "どこ"
+    "hanzi": "申请了",
+    "pinyin": "shēnqǐng le",
+    "meaning": "申し込んだ"
   },
   {
-    "hanzi": "前门",
-    "pinyin": "qiánmén",
-    "meaning": "前門（地名、場所）"
+    "hanzi": "所",
+    "pinyin": "suǒ",
+    "meaning": "〜所（学校などの量詞）"
   },
   {
-    "hanzi": "站",
-    "pinyin": "zhàn",
-    "meaning": "駅"
+    "hanzi": "最",
+    "pinyin": "zuì",
+    "meaning": "最も"
   },
   {
-    "hanzi": "坐",
-    "pinyin": "zuò",
-    "meaning": "乗る"
+    "hanzi": "强项",
+    "pinyin": "qiángxiàng",
+    "meaning": "得意分野"
   },
   {
-    "hanzi": "地铁",
-    "pinyin": "dìtiě",
-    "meaning": "地下鉄"
+    "hanzi": "老师",
+    "pinyin": "lǎoshī",
+    "meaning": "先生"
   },
   {
-    "hanzi": "呢",
-    "pinyin": "ne",
-    "meaning": "〜は？（疑問の語尾）"
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "meaning": "みんな、全て"
   },
   {
-    "hanzi": "走",
-    "pinyin": "zǒu",
-    "meaning": "歩く、行く"
+    "hanzi": "高考",
+    "pinyin": "gāokǎo",
+    "meaning": "大学入試"
   },
   {
-    "hanzi": "吧",
-    "pinyin": "ba",
-    "meaning": "〜しましょう"
+    "hanzi": "分数",
+    "pinyin": "fēnshù",
+    "meaning": "点数"
   },
   {
-    "hanzi": "等",
-    "pinyin": "děng",
-    "meaning": "待つ"
+    "hanzi": "高",
+    "pinyin": "gāo",
+    "meaning": "高い"
   },
   {
-    "hanzi": "演奏",
-    "pinyin": "yǎnzòu",
-    "meaning": "演奏する"
+    "hanzi": "选择",
+    "pinyin": "xuǎnzé",
+    "meaning": "選ぶ"
   },
   {
-    "hanzi": "人",
-    "pinyin": "rén",
-    "meaning": "人"
+    "hanzi": "对了",
+    "pinyin": "duì le",
+    "meaning": "そうだ、当たった"
   },
   {
-    "hanzi": "不过",
-    "pinyin": "bùguò",
-    "meaning": "しかし"
+    "hanzi": "短期",
+    "pinyin": "duǎnqī",
+    "meaning": "短期"
   },
   {
-    "hanzi": "其他",
-    "pinyin": "qítā",
-    "meaning": "その他の"
+    "hanzi": "项目",
+    "pinyin": "xiàngmù",
+    "meaning": "プロジェクト"
   },
   {
-    "hanzi": "储物柜",
-    "pinyin": "chǔwùguì",
-    "meaning": "ロッカー"
+    "hanzi": "真",
+    "pinyin": "zhēn",
+    "meaning": "本当に"
   },
   {
-    "hanzi": "一楼",
-    "pinyin": "yī lóu",
-    "meaning": "1階"
+    "hanzi": "厉害",
+    "pinyin": "lìhai",
+    "meaning": "すごい"
   },
   {
-    "hanzi": "这儿",
-    "pinyin": "zhèr",
-    "meaning": "ここ"
+    "hanzi": "辈子",
+    "pinyin": "bèizi",
+    "meaning": "一生"
   },
   {
-    "hanzi": "那儿",
-    "pinyin": "nàr",
-    "meaning": "あそこ"
+    "hanzi": "苹果",
+    "pinyin": "píngguǒ",
+    "meaning": "りんご"
   },
   {
-    "hanzi": "这里",
-    "pinyin": "zhèlǐ",
-    "meaning": "ここ"
+    "hanzi": "问题",
+    "pinyin": "wèntí",
+    "meaning": "問題"
   },
   {
-    "hanzi": "哪里",
-    "pinyin": "nǎlǐ",
-    "meaning": "どこ"
+    "hanzi": "主意",
+    "pinyin": "zhǔyi",
+    "meaning": "アイデア"
   },
   {
-    "hanzi": "那里",
-    "pinyin": "nàlǐ",
-    "meaning": "あそこ"
+    "hanzi": "扇子",
+    "pinyin": "shànzi",
+    "meaning": "扇子"
   },
   {
-    "hanzi": "电梯",
-    "pinyin": "diàntī",
-    "meaning": "エレベーター"
+    "hanzi": "椅子",
+    "pinyin": "yǐzi",
+    "meaning": "椅子"
   },
   {
-    "hanzi": "老家",
-    "pinyin": "lǎojiā",
-    "meaning": "実家"
+    "hanzi": "茶壶",
+    "pinyin": "cháhú",
+    "meaning": "急須"
   },
   {
-    "hanzi": "以前",
-    "pinyin": "yǐqián",
-    "meaning": "以前"
+    "hanzi": "刀",
+    "pinyin": "dāo",
+    "meaning": "ナイフ"
   },
   {
-    "hanzi": "感冒药",
-    "pinyin": "gǎnmàoyào",
-    "meaning": "風邪薬"
+    "hanzi": "杂志",
+    "pinyin": "zázhì",
+    "meaning": "雑誌"
   },
   {
-    "hanzi": "笔记本",
-    "pinyin": "bǐjìběn",
-    "meaning": "ノートパソコン"
+    "hanzi": "词典",
+    "pinyin": "cídiǎn",
+    "meaning": "辞書"
   },
   {
-    "hanzi": "拜访",
-    "pinyin": "bàifǎng",
-    "meaning": "訪問する"
+    "hanzi": "手册",
+    "pinyin": "shǒucè",
+    "meaning": "ハンドブック"
   },
   {
-    "hanzi": "住",
-    "pinyin": "zhù",
-    "meaning": "住む"
+    "hanzi": "头发",
+    "pinyin": "tóufa",
+    "meaning": "髪の毛"
   },
   {
-    "hanzi": "发",
-    "pinyin": "fā",
-    "meaning": "送る"
+    "hanzi": "火柴",
+    "pinyin": "huǒchái",
+    "meaning": "マッチ"
   },
   {
-    "hanzi": "邮件",
-    "pinyin": "yóujiàn",
-    "meaning": "メール"
+    "hanzi": "线",
+    "pinyin": "xiàn",
+    "meaning": "糸"
   },
   {
-    "hanzi": "广播",
-    "pinyin": "guǎngbò",
-    "meaning": "放送"
+    "hanzi": "飞机",
+    "pinyin": "fēijī",
+    "meaning": "飛行機"
   },
   {
-    "hanzi": "社团",
-    "pinyin": "shètuán",
-    "meaning": "サークル"
+    "hanzi": "照相机",
+    "pinyin": "zhàoxiàngjī",
+    "meaning": "カメラ"
   },
   {
-    "hanzi": "属",
-    "pinyin": "shǔ",
-    "meaning": "〜年生まれ"
+    "hanzi": "衣服",
+    "pinyin": "yīfu",
+    "meaning": "服"
   },
   {
-    "hanzi": "猪",
-    "pinyin": "zhū",
-    "meaning": "豚"
+    "hanzi": "大衣",
+    "pinyin": "dàyī",
+    "meaning": "コート"
   },
   {
-    "hanzi": "欸",
-    "pinyin": "èi",
-    "meaning": "あれっ（驚きや注意喚起）"
+    "hanzi": "行李",
+    "pinyin": "xíngli",
+    "meaning": "荷物"
   },
   {
-    "hanzi": "耳机",
-    "pinyin": "ěrjī",
-    "meaning": "イヤホン"
+    "hanzi": "蛋糕",
+    "pinyin": "dàngāo",
+    "meaning": "ケーキ"
   },
   {
-    "hanzi": "戴",
-    "pinyin": "dài",
-    "meaning": "かける、つける"
+    "hanzi": "手帕",
+    "pinyin": "shǒupà",
+    "meaning": "ハンカチ"
   },
   {
-    "hanzi": "眼镜",
-    "pinyin": "yǎnjìng",
-    "meaning": "眼鏡"
+    "hanzi": "糖",
+    "pinyin": "táng",
+    "meaning": "飴、砂糖"
   },
   {
-    "hanzi": "女孩子",
-    "pinyin": "nǚháizi",
-    "meaning": "女の子"
+    "hanzi": "肉",
+    "pinyin": "ròu",
+    "meaning": "肉"
   },
   {
-    "hanzi": "表妹",
-    "pinyin": "biǎomèi",
-    "meaning": "いとこの妹"
+    "hanzi": "自行车",
+    "pinyin": "zìxíngchē",
+    "meaning": "自転車"
   },
   {
-    "hanzi": "做",
-    "pinyin": "zuò",
-    "meaning": "作る、する"
+    "hanzi": "汽车",
+    "pinyin": "qìchē",
+    "meaning": "自動車"
   },
   {
-    "hanzi": "建筑",
-    "pinyin": "jiànzhù",
-    "meaning": "建築"
+    "hanzi": "卡车",
+    "pinyin": "kǎchē",
+    "meaning": "トラック"
   },
   {
-    "hanzi": "模型",
-    "pinyin": "móxíng",
-    "meaning": "模型"
+    "hanzi": "鞋",
+    "pinyin": "xié",
+    "meaning": "靴"
   },
   {
-    "hanzi": "厨房",
-    "pinyin": "chúfáng",
-    "meaning": "台所"
+    "hanzi": "袜子",
+    "pinyin": "wàzi",
+    "meaning": "靴下"
   },
   {
-    "hanzi": "烤",
-    "pinyin": "kǎo",
-    "meaning": "焼く"
+    "hanzi": "眼睛",
+    "pinyin": "yǎnjing",
+    "meaning": "目"
   },
   {
-    "hanzi": "秋刀鱼",
-    "pinyin": "qiūdāoyú",
-    "meaning": "サンマ"
+    "hanzi": "鱼",
+    "pinyin": "yú",
+    "meaning": "魚"
   },
   {
-    "hanzi": "味道",
-    "pinyin": "wèidào",
-    "meaning": "味"
+    "hanzi": "裤子",
+    "pinyin": "kùzi",
+    "meaning": "ズボン"
   },
   {
-    "hanzi": "周末",
-    "pinyin": "zhōumò",
-    "meaning": "週末"
+    "hanzi": "毛巾",
+    "pinyin": "máojīn",
+    "meaning": "タオル"
   },
   {
-    "hanzi": "唱",
-    "pinyin": "chàng",
-    "meaning": "歌う"
+    "hanzi": "被子",
+    "pinyin": "bèizi",
+    "meaning": "布団"
   },
   {
-    "hanzi": "卡拉OK",
-    "pinyin": "kǎlā OK",
-    "meaning": "カラオケ"
+    "hanzi": "河",
+    "pinyin": "hé",
+    "meaning": "川"
   },
   {
-    "hanzi": "怎么样",
-    "pinyin": "zěnmeyàng",
-    "meaning": "どうですか"
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "meaning": "犬"
   },
   {
-    "hanzi": "前天",
-    "pinyin": "qiántiān",
-    "meaning": "一昨日"
+    "hanzi": "牛",
+    "pinyin": "niú",
+    "meaning": "牛"
   },
   {
-    "hanzi": "后天",
-    "pinyin": "hòutiān",
-    "meaning": "明後日"
+    "hanzi": "纸",
+    "pinyin": "zhǐ",
+    "meaning": "紙"
   },
   {
-    "hanzi": "上星期",
-    "pinyin": "shàng xīngqī",
-    "meaning": "先週"
+    "hanzi": "票",
+    "pinyin": "piào",
+    "meaning": "チケット"
   },
   {
-    "hanzi": "这个星期",
-    "pinyin": "zhège xīngqī",
-    "meaning": "今週"
+    "hanzi": "照片",
+    "pinyin": "zhàopiàn",
+    "meaning": "写真"
   },
   {
-    "hanzi": "下星期",
-    "pinyin": "xià xīngqī",
-    "meaning": "来週"
+    "hanzi": "桌子",
+    "pinyin": "zhuōzi",
+    "meaning": "机"
   },
   {
-    "hanzi": "上月",
-    "pinyin": "shàng yuè",
-    "meaning": "先月"
+    "hanzi": "床",
+    "pinyin": "chuáng",
+    "meaning": "ベッド"
   },
   {
-    "hanzi": "这个月",
-    "pinyin": "zhège yuè",
-    "meaning": "今月"
+    "hanzi": "鸡",
+    "pinyin": "jī",
+    "meaning": "鶏"
   },
   {
-    "hanzi": "下个月",
-    "pinyin": "xià gè yuè",
-    "meaning": "来月"
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "meaning": "猫"
   },
   {
-    "hanzi": "前年",
-    "pinyin": "qiánnián",
-    "meaning": "一昨年"
+    "hanzi": "鸟",
+    "pinyin": "niǎo",
+    "meaning": "鳥"
   },
   {
-    "hanzi": "去年",
-    "pinyin": "qùnián",
-    "meaning": "去年"
+    "hanzi": "表",
+    "pinyin": "biǎo",
+    "meaning": "時計"
   },
   {
-    "hanzi": "今年",
-    "pinyin": "jīnnián",
-    "meaning": "今年"
+    "hanzi": "铅笔",
+    "pinyin": "qiānbǐ",
+    "meaning": "鉛筆"
   },
   {
-    "hanzi": "明年",
-    "pinyin": "míngnián",
-    "meaning": "来年"
+    "hanzi": "圆珠笔",
+    "pinyin": "yuánzhūbǐ",
+    "meaning": "ボールペン"
   },
   {
-    "hanzi": "后年",
-    "pinyin": "hòunián",
-    "meaning": "再来年"
+    "hanzi": "面包",
+    "pinyin": "miànbāo",
+    "meaning": "パン"
   },
   {
-    "hanzi": "会议",
-    "pinyin": "huìyì",
-    "meaning": "会議"
+    "hanzi": "电影",
+    "pinyin": "diànyǐng",
+    "meaning": "映画"
   },
   {
-    "hanzi": "节目",
-    "pinyin": "jiémù",
-    "meaning": "番組"
+    "hanzi": "发表",
+    "pinyin": "fābiǎo",
+    "meaning": "発表する"
   },
   {
-    "hanzi": "棒球",
-    "pinyin": "bàngqiú",
-    "meaning": "野球"
+    "hanzi": "论文",
+    "pinyin": "lùnwén",
+    "meaning": "論文"
   },
   {
-    "hanzi": "旅游",
-    "pinyin": "lǚyóu",
-    "meaning": "旅行する"
+    "hanzi": "迪士尼",
+    "pinyin": "Díshìní",
+    "meaning": "ディズニー"
   },
   {
-    "hanzi": "早上",
-    "pinyin": "zǎoshang",
-    "meaning": "朝"
+    "hanzi": "乐园",
+    "pinyin": "lèyuán",
+    "meaning": "遊園地"
   },
   {
-    "hanzi": "上午",
-    "pinyin": "shàngwǔ",
-    "meaning": "午前"
+    "hanzi": "放",
+    "pinyin": "fàng",
+    "meaning": "出す、休みにする"
   },
   {
-    "hanzi": "中午",
-    "pinyin": "zhōngwǔ",
-    "meaning": "正午"
+    "hanzi": "暑假",
+    "pinyin": "shǔjià",
+    "meaning": "夏休み"
   },
   {
-    "hanzi": "下午",
-    "pinyin": "xiàwǔ",
-    "meaning": "午後"
+    "hanzi": "上海",
+    "pinyin": "Shànghǎi",
+    "meaning": "上海"
   },
   {
-    "hanzi": "白天",
-    "pinyin": "báitiān",
-    "meaning": "昼間"
+    "hanzi": "玩儿",
+    "pinyin": "wánr",
+    "meaning": "遊ぶ"
   },
   {
-    "hanzi": "夜里",
-    "pinyin": "yèlǐ",
-    "meaning": "夜中"
+    "hanzi": "挂号信",
+    "pinyin": "guàhàoxìn",
+    "meaning": "書留"
+  },
+  {
+    "hanzi": "贵",
+    "pinyin": "guì",
+    "meaning": "高価"
+  },
+  {
+    "hanzi": "平信",
+    "pinyin": "píngxìn",
+    "meaning": "普通郵便"
+  },
+  {
+    "hanzi": "便宜",
+    "pinyin": "piányi",
+    "meaning": "安い"
+  },
+  {
+    "hanzi": "兵马俑",
+    "pinyin": "bīngmǎyǒng",
+    "meaning": "兵馬俑"
+  },
+  {
+    "hanzi": "非常",
+    "pinyin": "fēicháng",
+    "meaning": "非常に"
+  },
+  {
+    "hanzi": "壮观",
+    "pinyin": "zhuàngguān",
+    "meaning": "壮観"
+  },
+  {
+    "hanzi": "热",
+    "pinyin": "rè",
+    "meaning": "暑い"
+  },
+  {
+    "hanzi": "宽",
+    "pinyin": "kuān",
+    "meaning": "広い"
+  },
+  {
+    "hanzi": "书桌",
+    "pinyin": "shūzhuō",
+    "meaning": "机"
+  },
+  {
+    "hanzi": "窄",
+    "pinyin": "zhǎi",
+    "meaning": "狭い"
+  },
+  {
+    "hanzi": "可爱",
+    "pinyin": "kě'ài",
+    "meaning": "かわいい"
+  },
+  {
+    "hanzi": "大熊猫",
+    "pinyin": "dà xióngmāo",
+    "meaning": "パンダ"
+  },
+  {
+    "hanzi": "神秘",
+    "pinyin": "shénmì",
+    "meaning": "神秘的"
+  },
+  {
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "meaning": "良い"
+  },
+  {
+    "hanzi": "消息",
+    "pinyin": "xiāoxi",
+    "meaning": "知らせ"
+  },
+  {
+    "hanzi": "坏",
+    "pinyin": "huài",
+    "meaning": "悪い"
+  },
+  {
+    "hanzi": "饭后",
+    "pinyin": "fànhòu",
+    "meaning": "食後"
+  },
+  {
+    "hanzi": "散步",
+    "pinyin": "sànbù",
+    "meaning": "散歩する"
+  },
+  {
+    "hanzi": "习惯",
+    "pinyin": "xíguàn",
+    "meaning": "習慣"
+  },
+  {
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "meaning": "料理"
+  },
+  {
+    "hanzi": "常常",
+    "pinyin": "chángcháng",
+    "meaning": "よく"
+  },
+  {
+    "hanzi": "上学",
+    "pinyin": "shàngxué",
+    "meaning": "登校する"
+  },
+  {
+    "hanzi": "路上",
+    "pinyin": "lùshàng",
+    "meaning": "道中"
+  },
+  {
+    "hanzi": "背",
+    "pinyin": "bēi",
+    "meaning": "背負う"
+  },
+  {
+    "hanzi": "单词",
+    "pinyin": "dāncí",
+    "meaning": "単語"
+  },
+  {
+    "hanzi": "新能源车",
+    "pinyin": "xīn néngyuán chē",
+    "meaning": "新エネルギー車"
+  },
+  {
+    "hanzi": "流行",
+    "pinyin": "liúxíng",
+    "meaning": "流行する"
+  },
+  {
+    "hanzi": "睡",
+    "pinyin": "shuì",
+    "meaning": "寝る"
+  },
+  {
+    "hanzi": "懒觉",
+    "pinyin": "lǎnjiào",
+    "meaning": "朝寝坊"
+  },
+  {
+    "hanzi": "把",
+    "pinyin": "bǎ",
+    "meaning": "〜本（椅子など）"
+  },
+  {
+    "hanzi": "个",
+    "pinyin": "gè",
+    "meaning": "〜個"
+  },
+  {
+    "hanzi": "本",
+    "pinyin": "běn",
+    "meaning": "〜冊"
+  },
+  {
+    "hanzi": "根",
+    "pinyin": "gēn",
+    "meaning": "〜本（細いもの）"
+  },
+  {
+    "hanzi": "架",
+    "pinyin": "jià",
+    "meaning": "〜台（機械）"
+  },
+  {
+    "hanzi": "件",
+    "pinyin": "jiàn",
+    "meaning": "〜着、〜件"
+  },
+  {
+    "hanzi": "块",
+    "pinyin": "kuài",
+    "meaning": "〜個（かたまり）"
+  },
+  {
+    "hanzi": "辆",
+    "pinyin": "liàng",
+    "meaning": "〜台（車）"
+  },
+  {
+    "hanzi": "双",
+    "pinyin": "shuāng",
+    "meaning": "〜足、〜対"
+  },
+  {
+    "hanzi": "条",
+    "pinyin": "tiáo",
+    "meaning": "〜本（長いもの）"
+  },
+  {
+    "hanzi": "头",
+    "pinyin": "tóu",
+    "meaning": "〜頭（動物）"
+  },
+  {
+    "hanzi": "张",
+    "pinyin": "zhāng",
+    "meaning": "〜枚"
+  },
+  {
+    "hanzi": "只",
+    "pinyin": "zhī",
+    "meaning": "〜匹、〜羽"
+  },
+  {
+    "hanzi": "枝",
+    "pinyin": "zhī",
+    "meaning": "〜本（筆など）"
+  },
+  {
+    "hanzi": "片",
+    "pinyin": "piàn",
+    "meaning": "〜枚、〜片"
   }
 ]
